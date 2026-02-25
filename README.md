@@ -1,7 +1,57 @@
 # 👋 Hi, I'm Amir
 
-[![Mastodon](https://img.shields.io/mastodon/follow/109255573769213817?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&color=6364ff&logo=mastodon&logoColor=white&style=flat-square)](https://fosstodon.org/@dghubble)
-[![GitHub](https://img.shields.io/github/followers/dghubble?style=flat-square&label=GitHub&logo=github)](https://github.com/Amir-Akshan)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pavelevich&color=00FF00&style=flat-square&label=VISITORS)
+
+</div>
+
+---
+
+<!-- TERMINAL ABOUT -->
+```bash
+$ about_me.txt
+
+  Name:      Amir Akshan
+  Location:  India
+  Role:      Systems Engineer
+  Stack:     Rust, TypeScript, Python, C++, Swift
+  Focus:     AI Agents, Solana, Blockchain, IoT, Privacy
+  Motto:     ">>looking beyond inspiration"
+```
+
+---
+
+<!-- LANGS -->
+### `> ls langs/`
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF00" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF00" alt="Rust" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" alt="Python" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF00" alt="C++" />
+<img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=00FF00" alt="Swift" />
+<img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00" alt="Shell" />
+
+</div>
+
+### `> ls tools/`
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=00FF00" alt="Solana" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF00" alt="Node.js" />
+<img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=00FF00" alt="Tauri" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00FF00" alt="Ollama" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=00FF00" alt="Three.js" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF00" alt="Docker" />
+<img src="https://img.shields.io/badge/DigitalOcean-000000?style=for-the-badge&logo=digitalocean&logoColor=00FF00" alt="DigitalOcean" />
+
+</div>
+
+---
 
 I develop open-source software that powers infrastructure (for myself and for enterprises) at different layers:
 
@@ -12,19 +62,15 @@ I develop open-source software that powers infrastructure (for myself and for en
 
 I run Kubernetes clusters and infrastructure around the world to power 70+ internal projects/systems and founded Aither Labs. That infra spans AWS, Azure, DigitalOcean, Google Cloud, Equinix, Vultr, and an on-prem colocation and I operate for BGP peering and global anycast 🌐.
 
+---
+
 ## Libraries
 
 Find open-source Go [libraries](https://github.com/Amir-Akshan?tab=repositories) to add auth/login to your next app, build API clients, and more.
 
+---
+
 # [Aither Labs](https://aitherlabs.vercel.app/)
-
-## Services
-
-Poseidon Labs built [deploybot.app](https://deploybot.app/) to manage and automate GitHub Deployments for repos across your GitHub organizations.
-
-<img src="https://storage.googleapis.com/poseidon/deploybot-intro-page-border.png" width="60%">
-
-🚀 Install the [GitHub App](https://github.com/marketplace/deploybot-app) to [get started](https://docs.deploybot.app/getting-started/).
 
 Supports:
 
