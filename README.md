@@ -1,7 +1,7 @@
-# 👋 Hi, I'm dghubble
+# 👋 Hi, I'm Amir
 
 [![Mastodon](https://img.shields.io/mastodon/follow/109255573769213817?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&color=6364ff&logo=mastodon&logoColor=white&style=flat-square)](https://fosstodon.org/@dghubble)
-[![GitHub](https://img.shields.io/github/followers/dghubble?style=flat-square&label=GitHub&logo=github)](https://github.com/dghubble)
+[![GitHub](https://img.shields.io/github/followers/dghubble?style=flat-square&label=GitHub&logo=github)](https://github.com/Amir-Akshan)
 
 I develop open-source software that powers infrastructure (for myself and for enterprises) at different layers:
 
@@ -10,50 +10,13 @@ I develop open-source software that powers infrastructure (for myself and for en
 * Kubernetes, Terraform, orchestration
 * Datacenters, provisioning, networking
 
-I run Kubernetes clusters ([Typhoon](https://github.com/poseidon/typhoon)) and infrastructure around the world to power 70+ internal projects/systems and founded [Poseidon Labs](#poseidon-labs). That infra spans AWS, Azure, DigitalOcean, Google Cloud, Equinix, Vultr, and an on-prem colocation and I operate [AS207563](https://bgp.he.net/AS207563) for BGP peering and global anycast 🌐.
+I run Kubernetes clusters and infrastructure around the world to power 70+ internal projects/systems and founded Aither Labs. That infra spans AWS, Azure, DigitalOcean, Google Cloud, Equinix, Vultr, and an on-prem colocation and I operate for BGP peering and global anycast 🌐.
 
 ## Libraries
 
-Find open-source Go [libraries](https://github.com/dghubble?tab=repositories&q=&type=source&language=&sort=) to add auth/login to your next app, build API clients, and more.
+Find open-source Go [libraries](https://github.com/Amir-Akshan?tab=repositories) to add auth/login to your next app, build API clients, and more.
 
-[![gologin](https://img.shields.io/github/stars/dghubble/gologin?label=gologin&logo=github&style=flat-square)](https://github.com/dghubble/gologin)
-[![sling](https://img.shields.io/github/stars/dghubble/sling?label=sling&logo=github&style=flat-square)](https://github.com/dghubble/sling)
-[![trie](https://img.shields.io/github/stars/dghubble/trie?label=trie&logo=github&style=flat-square)](https://github.com/dghubble/trie)
-[![oauth1](https://img.shields.io/github/stars/dghubble/oauth1?label=oauth1&logo=github&style=flat-square)](https://github.com/dghubble/oauth1)
-[![sessions](https://img.shields.io/github/stars/dghubble/sessions?label=sessions&logo=github&style=flat-square)](https://github.com/dghubble/sessions)
-
-Or see my open-source projects in [poseidon](https://github.com/poseidon) and [deploybot-app](https://github.com/deploybot-app).
-
-## Sponsor
-
-❤️ Become a GitHub Sponsor of [dghubble](https://github.com/sponsors/dghubble) or [poseidon](https://github.com/sponsors/poseidon/) to help me develop and maintain projects. Some tiers have special perks!
-
-# Poseidon Labs
-
-[Poseidon Labs](https://www.psdn.io/) develops software for modern infrastructure to help you orchestrate, deploy, operate, and monitor. [Partner with us](mailto:tech@psdn.io) on your next project! 🌀
-
-[![Mastodon](https://img.shields.io/mastodon/follow/109265521752883351?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&color=6364ff&logo=mastodon&logoColor=white&style=flat-square)](https://fosstodon.org/@poseidon)
-[![GitHub](https://img.shields.io/github/followers/poseidon?style=flat-square&label=GitHub&logo=github)](https://github.com/poseidon)
-[![Blog](https://img.shields.io/badge/-Blog-0B0C0E?style=flat-square&logo=blogger&logoColor=white)](https://www.psdn.io/posts/)
-
-## Open Source
-
-Poseidon Labs develops open-source Kubernetes projects that we use and share with the community:
-
-[![Typhoon](https://img.shields.io/github/stars/poseidon/typhoon?label=Typhoon&logo=github&style=flat-square)](https://github.com/poseidon/typhoon)
-[![Matchbox](https://img.shields.io/github/stars/poseidon/matchbox?label=Matchbox&logo=github&style=flat-square)](https://github.com/poseidon/matchbox)
-[![fleetlock](https://img.shields.io/github/stars/poseidon/fleetlock?label=fleetlock&logo=github&style=flat-square)](https://github.com/poseidon/fleetlock)
-[![scuttle](https://img.shields.io/github/stars/poseidon/scuttle?label=scuttle&logo=github&style=flat-square)](https://github.com/poseidon/scuttle)
-[![kubelet](https://img.shields.io/github/stars/poseidon/kubelet?label=kubelet&logo=github&style=flat-square)](https://github.com/poseidon/kubelet)
-
-Define your infra declaratively with our popular [Terraform Providers](https://registry.terraform.io/search/providers?q=poseidon).
-
-[![butane](https://img.shields.io/github/downloads/poseidon/terraform-provider-ct/total?label=butane&style=flat-square)](https://github.com/poseidon/terraform-provider-ct)
-[![matchbox](https://img.shields.io/github/downloads/poseidon/terraform-provider-matchbox/total?label=matchbox&style=flat-square)](https://github.com/poseidon/terraform-provider-matchbox)
-[![util](https://img.shields.io/github/downloads/poseidon/terraform-provider-util/total?label=util&style=flat-square)](https://github.com/poseidon/terraform-provider-util)
-[![cue](https://img.shields.io/github/downloads/poseidon/terraform-provider-cue/total?label=cue&style=flat-square)](https://github.com/poseidon/terraform-provider-cue)
-
-Use our container images for [kubelet](https://github.com/poseidon/kubelet), [dnsmasq](https://github.com/poseidon/dnsmasq), and GitHub Actions [runner](https://github.com/deploybot-app/github-runner).
+# [Aither Labs](https://aitherlabs.vercel.app/)
 
 ## Services
 
