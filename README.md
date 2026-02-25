@@ -1,10 +1,4 @@
-# 👋 Hi, I'm Amir
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Pavelevich&color=00FF00&style=flat-square&label=VISITORS)
-
-</div>
+# 👋 Hi, I'm Amir ![Profile Views](https://komarev.com/ghpvc/?username=Pavelevich&color=00FF00&style=flat-square&label=VISITORS)
 
 ---
 
