@@ -122,7 +122,3 @@ Supports:
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/-Loki-F46800?style=for-the-badge&logoColor=white)
 
-# Contact Me
-
-* 🗓️ [Book a 1:1](https://calendly.com/dghubble) with me
-* 🤝 [Partner](mailto:tech@psdn.io) with Poseidon Labs
